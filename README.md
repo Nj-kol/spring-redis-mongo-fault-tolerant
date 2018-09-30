@@ -10,7 +10,7 @@
 ## Setup environment 
 
 * You can guide to setup a Redis sentinel cluster locally [here](https://github.com/Nj-kol/redis-ha/tree/master/redis-sentinel-demo)
-* You can guide to setup a MongoDB cluster locally [here](https://github.com/Nj-kol/redis-ha/tree/master/redis-sentinel-demo)
+* You can guide to setup a MongoDB cluster locally [here](https://github.com/Nj-kol/mongodb-ha/tree/master/mongodb-master-slave-demo)
 
 # Run as a docker container
 
